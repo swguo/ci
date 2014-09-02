@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#pagination a {
+	background:#e3e3e3;
+	padding:1px 7px;
+	text-decoration:none;
+	border:1px solid #cac9c9;
+	
+	
+}
+.min-size{
+	width:600px;
+	font-weight:bold;
+	font-size:18px;
+	background-color:#F6F6F6;
+	background: rgba(100%,100%,100%,0.6);
+	
+}
+
+body{
+	/*background-image:url(../img/bg2.jpg);*/
+	background-image:url(../img/1-120613223618.jpg);
+	background-size:cover;
+}
